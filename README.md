@@ -6,9 +6,9 @@
 - ubuntu22.04
 - ROS2-humble
 硬件
-Livox-mid360激光雷达
-12代-i7 1270p
-海康相机 MV-CS016-10UC	8mm镜头
+Livox-mid360激光雷达  <br>
+12代-i7 1270p  <br>
+海康相机 MV-CS016-10UC	8mm镜头  <br>
 #### 代码框架
 ```
 ├──rm_decision_ws
@@ -68,6 +68,6 @@ colcon build --symlink-install
 #### 致谢
 感谢君佬的rm_vision开源、感谢深北莫陈力瀚同学的开源及帮助、感谢杨涛学长、王柏程学长、朱云飞学长的帮助和鼓励还有COD战队的队友为哨兵做出的贡献
 
-contact：
+contact： <br>
 qq：2574944170 赵欣
 
