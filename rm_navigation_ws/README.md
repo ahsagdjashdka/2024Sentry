@@ -44,7 +44,6 @@
           └──ranger_mini_v2_gazebo
 ```
 #### 说明
-<<<<<<< HEAD
 1. rm_bringup <br>
 - 参数配置文件config和运行文件launch（有些参数在此处改动为无效，需要回到原位置修改）
 - map中为栅格地图（.data/.pgm/.posegraph/.yaml）  <br>
@@ -53,7 +52,6 @@
 - pcd为点云文件
 - rviz可视化
 - urdf模型文件  <br>
-
 2. rm_driver\livox_ros_driver2
 - 览沃激光雷达驱动[livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2)    注：北极熊开源中使用的驱动有修改
 3. rm_localization（该模块很重要）
