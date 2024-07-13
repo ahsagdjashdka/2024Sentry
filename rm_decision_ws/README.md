@@ -42,18 +42,18 @@
 
 ##### 资料
 
- [官网教程](https://www.behaviortree.dev/docs/tutorial-basics/tutorial_11_groot2/)
- [鱼香ros教程](https://fishros.org.cn/forum/topic/354/ros2%E4%B8%AD%E7%9A%84%E8%A1%8C%E4%B8%BA%E6%A0%91-behaviortree)
- [代码示例](https://github.com/BehaviorTree/BehaviorTree.ROS2/tree/humble/btcpp_ros2_samples)
+ [官网教程](https://www.behaviortree.dev/docs/tutorial-basics/tutorial_11_groot2/)</br>
+ [鱼香ros教程](https://fishros.org.cn/forum/topic/354/ros2%E4%B8%AD%E7%9A%84%E8%A1%8C%E4%B8%BA%E6%A0%91-behaviortree)</br>
+ [代码示例](https://github.com/BehaviorTree/BehaviorTree.ROS2/tree/humble/btcpp_ros2_samples)</br>
 
 ##### 安装
 
-'''
-sudo apt install ros-humble-behaviortree-cpp</br>
-git clone <https://gitee.com/SMBU-POLARBEAR/rm_behavior_tree.git></br>
-cd rm_behavior_tree</br>
-colcon build --symlink-install --cmake-args -DCMAKE_EXPORT_COMPILE_COMMANDS=ON</br>
-'''
+```
+sudo apt install ros-humble-behaviortree-cpp 
+git clone <https://gitee.com/SMBU-POLARBEAR/rm_behavior_tree.git> 
+cd rm_behavior_tree </br>
+colcon build --symlink-install --cmake-args -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
+```
 
 #### 说明
 
