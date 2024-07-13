@@ -20,9 +20,9 @@
           ├──urdf
           ├──Cmakelists.txt
           └──package.xml
-        ├──rm_driver\livox_ros_driver2
+       ├──rm_driver\livox_ros_driver2
            └──src
-        ├──rm_localization
+       ├──rm_localization
            ├──FAST_LIO
            ├──icp_registration
            └──point_lio
