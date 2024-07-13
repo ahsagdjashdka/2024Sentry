@@ -51,7 +51,7 @@
 ```
 sudo apt install ros-humble-behaviortree-cpp 
 git clone <https://gitee.com/SMBU-POLARBEAR/rm_behavior_tree.git> 
-cd rm_behavior_tree </br>
+cd rm_behavior_tree 
 colcon build --symlink-install --cmake-args -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
 ```
 
